@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AerovaAnna
 - 👀 I’m interested in physics
 - 📫 How to reach me: 
-                      Telegram @aaerova
+          Telegram @aaerova
 
 <!---
 - 🌱 I’m currently learning ...
